@@ -1,0 +1,18 @@
+{
+  "name": "log-test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "0.8.x",
+    "express": "4.12.3",
+    "json-markup": "0.1.6",
+    "json-to-html": "0.1.2",
+    "request": "^2.55.0"
+  }
+}
